@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp2021</string>
+    <string name="text_name">Нажми на меня</string>
+    <string name="btn_name">Привет</string>
+</resources>
